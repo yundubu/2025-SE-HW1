@@ -1,4 +1,4 @@
-=32410
+32410
 
 개인 GitHub 주소 : 
 No.|Requirement|Use Case(s)|
